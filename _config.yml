@@ -1,4 +1,3 @@
-layout_spectrum: 0.2866688724607229
 typography_spectrum: 0.7382909650914371
 color:
   brandStrength: 0.2898071485105902
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.2866688724607229
 name: metaconstructs
+title: Metaconstructs
