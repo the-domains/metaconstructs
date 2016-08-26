@@ -1,0 +1,14 @@
+layout_spectrum: 0.2866688724607229
+typography_spectrum: 0.7382909650914371
+color:
+  brandStrength: 0.2898071485105902
+  lightness: 0.20555201033130288
+  saturation: 0.16691611730493605
+  rhythmicContrast: 0.5501119093969464
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: metaconstructs
